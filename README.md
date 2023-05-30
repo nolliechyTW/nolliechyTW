@@ -18,4 +18,20 @@ Here are some ideas to get you started:
 😎 Ex Data Analyst in Finance <br/>
 ✨ Aspire to become a full stack developer  <br/> 
 🔭 Currently working on learning web developerment <br/> 
-🔥 Eager to embark on an exhilarating journey through the captivating realm of CS!
+🔥 Eager to embark on an exhilarating journey through the captivating realm of CS <br/> 
+###
+[![My Skills](https://skills.thijs.gg/icons?i=js)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=jquery&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=mongodb&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=mysql)](https://skills.thijs.gg)
+
+
+
+
+
