@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 ✨ Aspire to become a full stack developer  <br/> 
 🔭 Currently working on learning web developerment <br/> 
 🔥 Eager to embark on an exhilarating journey through the captivating realm of CS <br/> 
-###
-
 
 ### Languages & Tools
 
