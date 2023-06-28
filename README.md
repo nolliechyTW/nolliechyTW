@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-HTML-e34f26?style=flat&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/-CSS-9400D3?style=flat&logo=css3&logoColor=white"> 
 <img src="http://img.shields.io/badge/-Node-430098?style=flat&logo=Node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Express-787878?style=flat&logo=express&logoColor=ffffff"> 
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Figma-cc6699?style=flat&logo=figma&logoColor=ffffff"> 
