@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 Penn Engineering MCIT (Class of 2025) <br/>
-😎 Ex Data Analyst in Finance <br/>
-✨ Aspire to become a full stack developer  <br/> 
-🔭 Currently working on learning web developerment <br/> 
-🔥 Eager to embark on an exhilarating journey through the captivating realm of CS <br/> 
+🎓 Penn Engineering MCIT (Class of 2025)<br/>
+😎 Backend Team Software Development Intern at WRDS (Wharton Research Data Services)<br/>
+✨ Aspiring to become a full stack developer<br/>
+🔭 Actively seeking a 2024 Summer Internship<br/>
+🔥 Excited to embark on an exhilarating journey through the captivating realm of Computer Science <br/>
+⚡ I'm a piano-pounding, iron-pumping coder with a cat who keeps me company during my late-night sessions! 🎹💪💻😺
 
 ### Languages & Tools
 
