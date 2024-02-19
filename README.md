@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 Penn Engineering MCIT (Class of 2025)<br/>
-😎 Backend Team Software Engineer Intern at WRDS (Wharton Research Data Services)<br/>
-✨ Aspiring to become a Full Stack developer<br/>
-🔭 Actively seeking a 2024 Summer Internship<br/>
-⚡ I'm a piano-pounding, iron-pumping coder with a cat who keeps me company during my late-night sessions! 🎹💪💻😺
+🎓 CS @ Penn Engineering (Class of 2025)<br/>
+😎 Software Engineer Intern @ The Wharton School (Wharton Research Data Services)<br/>
+⚡  Specialize in full-stack software development and data analytics<br/>
+🌱 Actively seeking a 2024 SWE Summer Internship<br/>
 
 ### Languages & Tools
 
