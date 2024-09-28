@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 🎓 CS @ Penn Engineering (Class of 2025)<br/>
 😎 Software Engineer Intern @ The Wharton School (Wharton Research Data Services)<br/>
 🌱 Software Development Engineer Intern @ Amazon (Summer 2024) <br/>
+🤖 Incoming Software Development Engineer @ Amazon (Summer 2025) <br/>
 ⚡  Specialize in full-stack software development and data analytics<br/>
 
 ### Languages & Tools
