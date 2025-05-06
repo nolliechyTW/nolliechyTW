@@ -1,24 +1,15 @@
 ### Hi there 👋 I am Nolllie
-
-<!--
-**nolliechyTW/nolliechyTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 🎓 CS @ Penn Engineering (Class of 2025)<br/>
 😎 Software Engineer Intern @ The Wharton School (Wharton Research Data Services)<br/>
-🌱 Software Development Engineer Intern @ Amazon (Summer 2024) <br/>
-🤖 Incoming Software Development Engineer @ Amazon (Summer 2025) <br/>
+🌱 Software Development Engineer Intern @ AWS (Summer 2024) <br/>
+🤖 Incoming Software Development Engineer @ AWS (Summer 2025) <br/>
 ⚡  Specialize in full-stack software development and data analytics<br/>
+
+### Leadership and Achievements
+🙋‍♀️ Co-president @ UPenn MCIT <br/>
+🇹🇼 Vice-president and Treasurer @ UPenn TSA<br/>
+👑 Winner @ UPenn MCIT Hackathon 2024 <br/>
+🏅 Best Hack @ FemmeHack 2024 <br/>
 
 ### Languages & Tools
 <img src="https://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black"> 
@@ -44,6 +35,3 @@ Here are some ideas to get you started:
 <img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF"> 
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF"> 
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=FFFFFF"> 
-
-
-
